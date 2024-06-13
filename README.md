@@ -34,7 +34,8 @@ contract MyToken {
     }
     }
 
-
 }
 ```
 
+## Overview
+This project aims to provide users with a hands-on grasp of the several ideas covered in the ETH Beginner Course on Solidity. To supplement instruction and highlight important Solidity capabilities like public variables, mappings, minting, and burning functions, this smart contract contains practical examples and implementations.
